@@ -1,0 +1,5 @@
+{
+  "name": "992-web",
+  "main": "./_worker.js",
+  "compatibility_date": "2026-10-17"
+}
